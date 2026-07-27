@@ -56,11 +56,11 @@
 
 ## 📂 Featured Projects
 
-🚀 Superstore Sales Dashboard
+🚀  Ferrari Golbal Sales Dashboard
 
-🚀 Blinkit Sales Dashboard
+🚀  Virat Kohil Cricket Career Dashboard
 
-🚀 KTM Sales Dashboard
+🚀  Karnataka Election Voter List Analysis Dashboard
 
 🚀 Medical Data Analysis (SQL)
 
