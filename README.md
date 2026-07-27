@@ -44,13 +44,11 @@
 ---
 
 ## 📂 Featured Projects
-- Ferrari Global Sales Dashboard — interactive sales dashboard (Power BI). [link]
-- Virat Kohli Career Dashboard — cricket stats & visualizations. [link]
-- Karnataka Voter List Analysis — voter data analysis and insights. [link]
-- Medical Data Analysis (SQL) — queries & reports. [link]
-- Customer Segmentation Analysis — clustering and insights. [link]
-
-(Add short descriptions and links to each project or project repo / demo.)
+- Ferrari Global Sales Dashboard — interactive sales dashboard (Power BI). 
+- Virat Kohli Career Dashboard — cricket stats & visualizations. 
+- Karnataka Voter List Analysis — voter data analysis and insights. 
+- Medical Data Analysis (SQL) — queries & reports. 
+- Customer Segmentation Analysis — clustering and insights. 
 
 ---
 ## 🏆 Certifications
