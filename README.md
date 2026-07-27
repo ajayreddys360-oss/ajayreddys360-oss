@@ -20,21 +20,22 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ajayas360
-</a>
-  
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<p align="center">
 
-<a href="mailto:ajayreddys360@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="https://www.linkedin.com/in/ajayas360">
+  <img src="https://img.shields.io/badge/LinkedIn-Ajay%20A%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ajayreddys360-oss">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-ajayreddys360--oss-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="mailto:ajayreddys360@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ajayreddys360%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
+
 
 ---
 
